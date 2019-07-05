@@ -10,8 +10,11 @@ Setup:
 ```
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MQ-software-carpentry/my-python-intro/master)
 ```
+
 6. To get the nice interface, add `?urlpath=lab` to the end of the url, so now the text you copied should look like:
 ```
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MQ-software-carpentry/my-python-intro/master?urlpath=lab)
 ```
 7. Click "Commit changes" at the bottom, and give a message so you know what's changed. You've made your first git commit, congradulations! Now if you click the binder button that's appeared, binder will automatically launch with your git repository.
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/geoluna/my-python-intro/master?urlpath=lab)
